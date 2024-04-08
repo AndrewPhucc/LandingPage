@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 
-![image](https://github.com/AndrewPhucc/LandingPage/assets/142517044/707d653f-60ec-4c42-b8e5-a5ec562d33cb)
+
